@@ -1,0 +1,56 @@
+AI-Driven Smart Blind Turn & Sustainable Campus Optimization System
+
+An integrated IoT + AI solution for accident prevention and smart sustainability management.
+
+ Project Overview
+
+This project presents a real-time blind U-turn accident prevention system integrated with an AI-powered sustainable campus monitoring platform.
+
+It combines IoT sensors, edge computing, and AI analytics to improve road safety while optimizing energy, water, air quality, and waste management across campuses or communities.
+
+The system is modular, scalable, cost-effective, and aligned with Sustainable AI and Green Tech principles.
+
+ Problem Statement : 
+
+High risk of accidents at blind U-turns due to low visibility
+
+Inefficient energy and water usage in campuses
+
+Lack of real-time sustainability monitoring
+
+Poor waste segregation practices
+
+No unified smart monitoring infrastructure
+
+Proposed Solution
+
+The solution integrates two core systems:
+
+1. Smart Blind U-Turn Detection System
+
+Ultrasonic sensors detect vehicles approaching from both sides
+
+ESP32 microcontrollers process sensor data
+
+Wireless communication between both ends
+
+LED STOP indicators and buzzer alerts activated in real-time
+
+Optional solar-powered deployment
+
+When a vehicle is detected on one side → the opposite side receives an immediate STOP warning.
+
+ 2. AI-Driven Sustainable Campus Monitoring
+
+Smart energy consumption tracking
+
+Water flow monitoring
+
+Soil & irrigation decision support
+
+Air quality monitoring (PM2.5, CO₂)
+
+AI-based waste classification using computer vision
+
+Central dashboard with actionable insights
+
